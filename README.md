@@ -9,5 +9,5 @@ Each scenario focuses on tradecraft relevant to modern SOC and MDR operations, i
 - Active Directory abuse and coercion techniques
 - Detection visibility via an EDR solution (Microsoft Defender for Endpoint, in this case)
 
-
+> Built as part of my ongoing study into adversary TTPs, how they appear (or don’t) in telemetry, and what can be done to detect or mitigate them.
 
