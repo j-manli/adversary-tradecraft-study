@@ -57,9 +57,3 @@ While some EDR tools flag new registry autorun entries, defenders should watch f
 - Autorun keys referencing LOLBINs or renamed executables
 
 Consider pairing registry telemetry with process creation and network connection data to spot the full chain.
-
----
-
-## Related Write-Ups
-
-- [WindowsTelemetryService: Registry Run Key Persistence (Sliver C2)](https://github.com/j-manli/adversary-tradecraft-study/blob/main/03_persistence/autorun/T1547.001_runkey_C2_sliver.md)
