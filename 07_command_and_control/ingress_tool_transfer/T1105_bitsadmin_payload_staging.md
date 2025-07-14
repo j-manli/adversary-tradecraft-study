@@ -86,5 +86,5 @@ DeviceProcessEvents
 Now that the payload is successfully downloaded, we’ll pivot to execution by creating a service that quietly runs the staged updater.exe reverse shell.
 
 ➡️ **Next Step:** Continue the attack chain with the follow-up technique:  
-[T1543.003 – Windows Service Masquerade](../../03_persistence/services/T1543.003_windows_service_masquerade.md)
+[T1543.003 – Windows Service Masquerade](../../01_persistence/services/T1543.003_windows_service_masquerade.md)
 
